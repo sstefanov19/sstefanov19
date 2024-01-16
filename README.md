@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my codes<br>🤝 I’m looking for help with my codes <br>🌱 I’m currently learning python
+🔭 I’m currently working on improving my codes<br>🤝 I’m looking for help with my codes <br>🌱 I’m currently learning web development
+
 
 
 ## 🌐 Socials:
