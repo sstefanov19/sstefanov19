@@ -1,10 +1,10 @@
 Stefan Stefanov
 
-Im a junior full-stack developer ,looking for job opurtunities in the real wolrd.All of the projects i have build were from the ground up, from planning and designing all the way to solving real-life problems with code.
+I am a junior full-stack developer passionate about building projects from the ground up. My experience includes everything from planning and designing to implementing solutions for real-world problems through code. I'm eager to find job opportunities that will allow me to grow and apply my skills in a professional setting.
 
 
 ## 🌐 Socials:
-[!Linkedin] (https://www.linkedin.com/in/stefan19/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan19/)
 
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -22,9 +22,6 @@ Im a junior full-stack developer ,looking for job opurtunities in the real wolrd
 ![](https://github-readme-stats.vercel.app/api?username=sstefanov19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sstefanov19&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sstefanov19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xdStefcho&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 
   
