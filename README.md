@@ -1,10 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on improving my codes<br>🤝 I’m looking for help with my codes <br>🌱 I’m currently learning web development
+Stefan Stefanov
 
+Im a junior full-stack developer ,looking for job opurtunities in the real wolrd.All of the projects i have build were from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 
 ## 🌐 Socials:
-![Linkedin] (https://www.linkedin.com/in/stefan19/)
+Linkedin (https://www.linkedin.com/in/stefan19/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
