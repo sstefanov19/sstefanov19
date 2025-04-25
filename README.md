@@ -1,6 +1,6 @@
 Stefan Stefanov
 
-Front End Developer currently working at The Coca-Cola Company
+Software Engineer currently working at The Coca-Cola Company
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan19/)
