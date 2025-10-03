@@ -1,11 +1,21 @@
-Stefan Stefanov
+# Hi, I'm Stefan 👋  
 
-Software Engineer currently working at The Coca-Cola Company
+I like building things on the back end and understanding how they work under the hood.  
+Lately I’ve been spending most of my time experimenting with small services, tinkering with databases, and reading about how big systems stay fast and reliable.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan19/)
+---
+
+### What I'm up to
+- Writing little projects to learn about concurrency, caching and replication
+- Taking apart database features to see how they’re implemented
+- Slowly building a tiny distributed key-value store as a learning exercise
+
+---
+
+### Things I use a lot
+Java · Spring Boot · Node.js  
+PostgreSQL 
+Docker · REST APIs  
 
 
-<br />
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📫 [LinkedIn](https://linkedin.com/in/stefan19) · [Email](mailto:stefanov0419@gmail.com)
