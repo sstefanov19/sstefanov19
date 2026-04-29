@@ -6,7 +6,7 @@ Lately I’ve been spending most of my time experimenting with small services, t
 ---
 
 ### Things I use a lot
-Java · Spring Boot · Node.js  
+Java · Spring Boot 
 PostgreSQL 
 Docker · REST APIs  
 
